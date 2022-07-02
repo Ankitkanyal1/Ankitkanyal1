@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=20D2D6&multiline=true&height=100&lines=Hello+there+I'm+Ankit++%F0%9F%98%81;Welcome+to+my+github+profile!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=20D2D6&multiline=true&height=100&lines=Hello+there+I'm+Ankit++%F0%9F%98%81;Welcome+to+My+GitHuB+Profile!)](https://git.io/typing-svg)<br>
 <img align="centre" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47fp3370q37gay6w5lpkcg2uw2m0cf1w28hs4tiec0&rid=200w.webp&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
