@@ -46,12 +46,12 @@
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/PS.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/LR.svg"/>|<img alt="Adobe Illustrator" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/AI.svg"/>|<img alt="Adobe XD" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/XD.svg"/>|<img alt="Figma" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Figma.svg"/>|<img alt="Gimp" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Gimp.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/PS.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/LR.svg"/>|<img alt="Adobe Illustrator" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/AI.svg"/>|<img alt="Adobe XD" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/XD.svg"/>|<img alt="Figma" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Figma.svg"/>|<img alt="Gimp" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Gimp.svg"/>
  |--|--|--|--|--|--|
 
 **Video & Sound Editing**
 
-<img alt="Adobe Premiere Pro" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Audition.svg"/>
+<img alt="Adobe Premiere Pro" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Audition.svg"/>
 |--|--|--|
 
 ## 🌟 Github Badges
