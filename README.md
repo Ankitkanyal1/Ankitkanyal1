@@ -41,7 +41,7 @@
 
  **Tools**
  
-<img alt="Ubuntu" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/WP.svg"/>
+<img alt="Ubuntu" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/tree/main/icons/WP.svg"/>
  |--|--|--|--|--|
  
  **Designing and Photo Editing**
@@ -70,8 +70,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Ankitkanyal1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitkanyal1"><p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=Ankitkanyal1">
-</p>
