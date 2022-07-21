@@ -1,4 +1,4 @@
-# <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=20D2D6&multiline=true&height=100&lines=Hi+there+I'm+Ankit Kanyal)](https://github.com/Ankitkanyal1) 👋
+# <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=20D2D6&multiline=true&height=100&lines=Hi+there+I'm+Ankit Kanyal)!](https://github.com/Ankitkanyal1) 👋
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
 <p align="center"/> Howdy, I'm Ankit Kanyal. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
